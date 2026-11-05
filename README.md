@@ -46,7 +46,7 @@ Cuando un local de sushi o comida japonesa de Viña del Mar o Valparaíso respon
 
 > *"¡Hola [Nombre del Local]! 👋 Te comparto la maqueta que desarrollamos especialmente para locales de sushi y delivery en la V Región, con catálogo interactivo de tablas, handrolls y pedidos directos a su WhatsApp:*  
 > 🔗 **https://breborn.github.io/sushi-demo/**  
-> *Esto les permite ahorrarse el 30% de comisiones que cobran PedidosYa o Rappi, recibiendo los pedidos de sus clientes directamente en su WhatsApp en 48 horas. ¿Qué les parece el formato para adaptarlo con su carta?"*
+> *Esto les permite ahorrarse el 30% de comisiones que cobran PedidosYa o Rappi, recibiendo los pedidos de sus clientes directamente en su WhatsApp en 4 a 5 días hábiles. ¿Qué les parece el formato para adaptarlo con su carta?"*
 
 ---
 
