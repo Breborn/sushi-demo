@@ -1,4 +1,4 @@
-# 🍣 KAIZEN SUSHI • Nikkei Craft & Delivery House
+# 🍣 SUSHI • Nikkei Craft & Delivery House
 > **Showcase Comercial de Alta Conversión para Locales de Sushi y Comida Nikkei — Desarrollado por [Breborn.cl](https://breborn.cl)**
 
 Sitio web demostrativo de alta gama para **locales de sushi, barras nikkei, handrolls XL y dark kitchens de delivery** en la V Región (Viña del Mar, Reñaca, Concón y Valparaíso). Diseñado específicamente para que los dueños de locales gastronómicos dejen de depender de comisiones abusivas de aplicaciones de delivery (25% a 32% en Rappi y PedidosYa) y reciban pedidos directos a su WhatsApp ganando el 100% del margen.

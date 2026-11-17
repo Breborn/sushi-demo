@@ -1,5 +1,5 @@
 /**
- * KAIZEN SUSHI • NIKKEI CRAFT & DELIVERY HOUSE
+ * SUSHI • NIKKEI CRAFT & DELIVERY HOUSE
  * Interactive Menu Logic & WhatsApp Order Integration
  * Developed for Breborn.cl Showcase
  */
@@ -139,14 +139,14 @@ function initOrderForm() {
 
       const mode = document.getElementById('fMode')?.value || 'Delivery';
       const location = document.getElementById('fLocation')?.value || 'Viña del Mar';
-      const promo = document.getElementById('fPromo')?.value || 'Tabla Kaizen';
+      const promo = document.getElementById('fPromo')?.value || 'Tabla Signature';
       const extra = document.getElementById('fExtra')?.value || 'Sin extra';
       const sauces = document.getElementById('fSauces')?.value || 'Soya y Teriyaki';
       const beverage = document.getElementById('fBeverage')?.value || 'Sin bebida';
       const address = document.getElementById('fAddress')?.value || '';
 
       const lines = [
-        '¡Hola Kaizen Sushi! 🍣 Quiero hacer un pedido:',
+        '¡Hola! 🍣 Quiero hacer un pedido:',
         '',
         `🛵 *Modalidad:* ${mode}`,
         `📍 *Sucursal de Despacho:* ${location}`,
